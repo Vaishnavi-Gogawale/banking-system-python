@@ -2,7 +2,7 @@
 Banking System Mini Project
 Features: OOP Concepts - Inheritance, Abstraction, Encapsulation, 
           Polymorphism, ClassMethod, StaticMethod
-Author: Your Name
+Author: Vaishnavi Gogawale
 Date: 2026
 """
 
